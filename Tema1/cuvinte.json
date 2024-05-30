@@ -1,0 +1,56 @@
+[
+  {
+    "Categorie": "Cladire",
+    "Cuvant": "Scoala",
+    "Descriere": "Cladire administrativa cu rol in educatie",
+    "Image": "C:\\Users\\Alex\\Pictures\\Camera Roll\\scoala.png"
+  },
+  {
+    "Categorie": "Rechizite",
+    "Cuvant": "Penar",
+    "Descriere": "Obiect de depozitat rechizite",
+    "Image": "C:\\Users\\Alex\\Pictures\\Camera Roll\\penar.png"
+  },
+  {
+    "Categorie": "Mobilier",
+    "Cuvant": "Masa",
+    "Descriere": "Obiect care se regaseste in orice casa pe care poti manca, sau face teme.",
+    "Image": "C:\\Users\\Alex\\Pictures\\Camera Roll\\masa.jpeg"
+  },
+  {
+    "Categorie": "Cladire",
+    "Cuvant": "Primarie",
+    "Descriere": "Organ local al puterii administrative în municipii, orașe și comune",
+    "Image": "C:\\Users\\Alex\\Pictures\\Camera Roll\\primarie.jpg"
+  },
+  {
+    "Categorie": "Joc",
+    "Cuvant": "CS2",
+    "Descriere": "Joc video fps creat de Valve",
+    "Image": "C:\\Users\\Alex\\Pictures\\Camera Roll\\cs.png"
+  },
+  {
+    "Categorie": "Activitate",
+    "Cuvant": "Alergare",
+    "Descriere": "Activitate fizica (cardio) pe care o poti face oriunde. (mai ales cand esti in intarziere)",
+    "Image": "C:\\Users\\Alex\\Pictures\\Camera Roll\\alergare.png"
+  },
+  {
+    "Categorie": "Muzica",
+    "Cuvant": "Pop",
+    "Descriere": "Categorie largă de muzici de divertisment, muzici cu un înalt grad de accesibilitate, ce se adresează unei demografici de masă",
+    "Image": "C:\\Users\\Alex\\Pictures\\Camera Roll\\pop.jpeg"
+  },
+  {
+    "Categorie": "Activitate",
+    "Cuvant": "Curs",
+    "Descriere": "Expunere, predare a unei materii de studiu sub forma unui ciclu de lecții sau de prelegeri.",
+    "Image": "C:\\Users\\Alex\\Pictures\\Camera Roll\\curs.webp"
+  },
+  {
+    "Categorie": "Rechizite",
+    "Cuvant": "Creion",
+    "Descriere": "Obiect de scris",
+    "Image": "C:\\Users\\Alex\\Pictures\\Camera Roll\\creion.jpg"
+  }
+]

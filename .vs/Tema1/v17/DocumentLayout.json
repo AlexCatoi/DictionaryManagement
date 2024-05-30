@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\An 2 sem 2\\MVP\\Tema1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|D:\\An 2 sem 2\\MVP\\Tema1\\tema1\\cautare.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\cautare.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|D:\\An 2 sem 2\\MVP\\Tema1\\tema1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|d:\\an 2 sem 2\\mvp\\tema1\\tema1\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|D:\\An 2 sem 2\\MVP\\Tema1\\tema1\\cuvinte.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\cuvinte.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|D:\\An 2 sem 2\\MVP\\Tema1\\tema1\\entertainment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\entertainment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|D:\\An 2 sem 2\\MVP\\Tema1\\tema1\\adaugare.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\adaugare.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|D:\\An 2 sem 2\\MVP\\Tema1\\tema1\\cautare.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\cautare.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|D:\\An 2 sem 2\\MVP\\Tema1\\tema1\\adaugare.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\adaugare.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|D:\\An 2 sem 2\\MVP\\Tema1\\tema1\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|D:\\An 2 sem 2\\MVP\\Tema1\\tema1\\entertainment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\entertainment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|D:\\An 2 sem 2\\MVP\\Tema1\\tema1\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E9438B6D-49F4-4599-8DA1-AD2A939E5EB4}|Tema1\\Tema1.csproj|solutionrelative:tema1\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Adaugare.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Adaugare.xaml.cs",
+              "RelativeDocumentMoniker": "Tema1\\Adaugare.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Adaugare.xaml.cs",
+              "RelativeToolTip": "Tema1\\Adaugare.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:51:21.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cautare.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Cautare.xaml.cs",
+              "RelativeDocumentMoniker": "Tema1\\Cautare.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Cautare.xaml.cs",
+              "RelativeToolTip": "Tema1\\Cautare.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T07:18:32.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entertainment.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Entertainment.xaml.cs",
+              "RelativeDocumentMoniker": "Tema1\\Entertainment.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Entertainment.xaml.cs",
+              "RelativeToolTip": "Tema1\\Entertainment.xaml.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:47:43.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cautare.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Cautare.xaml",
+              "RelativeDocumentMoniker": "Tema1\\Cautare.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Cautare.xaml",
+              "RelativeToolTip": "Tema1\\Cautare.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-14T08:13:03.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Entertainment.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Entertainment.xaml",
+              "RelativeDocumentMoniker": "Tema1\\Entertainment.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Entertainment.xaml",
+              "RelativeToolTip": "Tema1\\Entertainment.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-20T15:25:41.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Tema1\\Login.xaml.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Login.xaml.cs",
+              "RelativeToolTip": "Tema1\\Login.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADAAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T14:05:42.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Tema1\\MainWindow.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\MainWindow.xaml",
+              "RelativeToolTip": "Tema1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-03T13:06:56.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cuvinte.json",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\cuvinte.json",
+              "RelativeDocumentMoniker": "Tema1\\cuvinte.json",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\cuvinte.json*",
+              "RelativeToolTip": "Tema1\\cuvinte.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-12T16:07:18.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Files.cs",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Files.cs",
+              "RelativeDocumentMoniker": "Tema1\\Files.cs",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Files.cs",
+              "RelativeToolTip": "Tema1\\Files.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T07:33:17.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Adaugare.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Adaugare.xaml",
+              "RelativeDocumentMoniker": "Tema1\\Adaugare.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Adaugare.xaml",
+              "RelativeToolTip": "Tema1\\Adaugare.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T15:12:49.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Login.xaml",
+              "RelativeDocumentMoniker": "Tema1\\Login.xaml",
+              "ToolTip": "D:\\An 2 sem 2\\MVP\\Tema1\\Tema1\\Login.xaml",
+              "RelativeToolTip": "Tema1\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-03T13:47:10.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

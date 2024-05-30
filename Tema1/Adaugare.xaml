@@ -1,0 +1,36 @@
+﻿<Window x:Class="Tema1.Adaugare"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tema1"
+        mc:Ignorable="d"
+        Title="Adaugare" Height="450" Width="800"
+        Background="Azure">
+    <StackPanel>
+        <Grid Margin="0,50,0,0" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="2.5*"/>
+            </Grid.ColumnDefinitions>
+            <Label FontSize="20" Margin="0,5">Categorie:</Label>
+            <Label FontSize="20" Margin="0,5" Grid.Column="1">Cuvant:</Label>
+            <TextBox x:Name="cuvant" Height="30" Margin="25,10,0,10" Width="300" FontSize="20" TextAlignment="Left" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1"></TextBox>
+            <ComboBox x:Name="categorie" Height="30" Margin="25,10,0,10" Width="150" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" IsEditable="True"></ComboBox>
+        </Grid>
+        <Grid Margin="0,50,0,0" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Label FontSize="25" Margin="50,-30,0,0">Descriere:</Label>
+            <TextBox x:Name="descriere" Height="125" Margin="30,10,0,60" Width="400" FontSize="20" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="1" TextWrapping="WrapWithOverflow"></TextBox>
+            <Button x:Name="AddImage" Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Bottom" Content="Adauga Imagine" Width="100" Height="30" Margin="0,0,100,20" Click="Add_Image"></Button>
+            <Image x:Name="Imagine" HorizontalAlignment="Right" VerticalAlignment="Top" Height="120" Width="370" Margin="0,20,80,0" Grid.RowSpan="2" Source="C:\Users\Alex\Pictures\Camera Roll\not_found.jpg"/>
+            <Button x:Name="addIt" Content="Adaugare" Width="100" Height="30" Margin="0,0,150,0" Grid.Row="2" Click="Adauga_clicked"></Button>
+            <Button x:Name="Cancel" Content="Cancel" Width="100" Height="30" Margin="150,0,0,0" Grid.Row="2" Click="Cancel_clicked"></Button>
+        </Grid>
+    </StackPanel>
+</Window>
+
